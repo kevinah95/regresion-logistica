@@ -10,8 +10,9 @@ g = zeros(size(z));
 %                (z puede er una matriz, un vector o un escalar).
 
 
+% calcula la sigmoide de z.
 
-
+g = 1.0 ./ (1.0 + exp(-z));
 
 
 

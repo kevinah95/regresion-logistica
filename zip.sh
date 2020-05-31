@@ -1,0 +1,1 @@
+zip 2014092195_Kevin-Hernandez_aprendizaje-redes-neurales.zip funcionDeCosto.m funcionDeCostoReg.m grafiqueDatos.m prediccion.m sigmoide.m README.md
